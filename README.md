@@ -1,28 +1,30 @@
-### Hi there 👋
+### Hello there 👋
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://twitter.com/hebertdev1">
-  <img align="left" alt="hebert villafuerte | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://twitter.com/Jonavts">
+  <img align="left" alt="Jonatan Vazquez | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
-<a href="https://www.linkedin.com/in/hebertdev/">
-  <img align="left" alt="hebertdev1 LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/jonatan-vazquez-tellez-497418180/">
+  <img align="left" alt="jonatan LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://www.instagram.com/hebertdev1/">
-  <img align="left" alt="Hebertdev1 Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/jona_vt/">
+  <img align="left" alt="jonatan Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<a href="https://www.youtube.com/channel/UCvVxuO28XPe-fC6khHyAA_Q">
-  <img align="left" alt="Hebertdev1 Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+<a href="https://www.reddit.com/user/Jonavts1">
+  <img align="left" alt="jonatan Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=hebertdev1.hebertdev1)
+<a href="https://www.youtube.com/channel/UCh2nFjuedBHfsrlrJ6nm6Kg">
+  <img align="left" alt="jonatan Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
 
 <br />
 
-Hi, I'm [hebert villafuerte](https://hebertdev.tk/), a Full Stack Developer 🚀 from Peru, I have extensive experience in the design and building of web applications.
+Hola, Soy [Jonatan Vazquez], un desarrollador web Junior 🚀 originario de Tulancingo de Bravo Hgo, Mexico, Tengo un poco de experiencia en desarrollo web asi como manejo de lenguajes de programacion tales como Java, Python.
 
 <img  src="https://raw.githubusercontent.com/hebertdev1/hebertdev1/master/javascript.gif" />
   
@@ -31,8 +33,7 @@ Hi, I'm [hebert villafuerte](https://hebertdev.tk/), a Full Stack Developer 🚀
 ### Donde me puedes encontrar
 
 _Personal_
-* :star::blush: A veces me vuelvo Youtuber DEV **[Videos](https://www.youtube.com/channel/UCvVxuO28XPe-fC6khHyAA_Q)** :v:
-* :star::blush: Mi sitio web **[Works](https://hebertdev.tk/works)** :v:
-* :star::blush: Fotos, tips y memes **[Instagram](https://www.instagram.com/hebertdev1)** :v:
-* :star::blush: Algo que no uso x1 **[Facebook](https://facebook.com/hebertdev1)** :v:
-* :star::blush: Algo que no uso x2 **[Twitter](https://twitter.com/hebertdev1)** :v:
+* :star::blush: Mix musicales **[Videos](https://www.youtube.com/channel/UCh2nFjuedBHfsrlrJ6nm6Kg)** :v:
+* :star::blush: Fotos **[Instagram](https://www.instagram.com/jona_vt/)** :v:
+* :star::blush: redes sociales **[Facebook](https://www.facebook.com/jona.vazqueztellez)** :v:
+* :star::blush: Algo que no uso **[Twitter](https://twitter.com/hebertdev1)** :v:
