@@ -1,6 +1,6 @@
 ### Time waits for no one
 
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hello There   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://twitter.com/Jonavts">
   <img align="left" alt="Jonatan Vazquez | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -34,7 +34,7 @@ Hola, Soy Jonatan Vazquez, un desarrollador web Junior 🚀 originario de Tulanc
 ### Donde me puedes encontrar
 
 _Personal_
-* :sleeping::zap: Mix musicales **[Videos](https://www.youtube.com/channel/UCh2nFjuedBHfsrlrJ6nm6Kg)** 
-* :sleeping::zap:  Fotos **[Instagram](https://www.instagram.com/jona_vt/)** 
-* :sleeping::zap:  redes sociales **[Facebook](https://www.facebook.com/jona.vazqueztellez)** 
+* :zap: Mix musicales **[Videos](https://www.youtube.com/channel/UCh2nFjuedBHfsrlrJ6nm6Kg)** 
+* :zap:  Fotos **[Instagram](https://www.instagram.com/jona_vt/)** 
+* :zap:  redes sociales **[Facebook](https://www.facebook.com/jona.vazqueztellez)** 
 * :sleeping::zap:  Algo que no uso **[Twitter](https://twitter.com/hebertdev1)**
