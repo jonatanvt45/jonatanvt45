@@ -1,4 +1,4 @@
-### Hello there 👋
+### Time wait for no one👋
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
@@ -26,7 +26,7 @@
 
 Hola, Soy [Jonatan Vazquez], un desarrollador web Junior 🚀 originario de Tulancingo de Bravo Hgo, Mexico, Tengo un poco de experiencia en desarrollo web asi como manejo de lenguajes de programacion tales como Java, Python.
 
-<img  src="https://raw.githubusercontent.com/hebertdev1/hebertdev1/master/javascript.gif" />
+<img  src="https://ximhai.com/img/programando.gif" />
   
 
 
