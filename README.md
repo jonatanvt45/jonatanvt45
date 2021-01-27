@@ -24,8 +24,10 @@
 
 <br />
 
+<br>
 
 Hola, Soy Jonatan Vazquez, un desarrollador web Junior 🚀 originario de Tulancingo de Bravo Hgo, Mexico, Tengo un poco de experiencia en desarrollo web asi como manejo de lenguajes de programacion tales como Java, Python.
+<br>
 
 <img  src="https://ximhai.com/img/programando.gif" />
   
